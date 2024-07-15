@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc005c39-5fe0-4fe7-a8eb-c7381adad5e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../apitest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/SoapRequest/add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/test/java/tests/GetAndPostExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/test/java/tests/PutPatchDeleteExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/test/java/tests/SoapXMLRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/src/test/java/tests/TestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apitest/user.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jH7grji0dbszH455jj5KHKqWr2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/zulma/Documents/Tools/gradle-8.5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc005c39-5fe0-4fe7-a8eb-c7381adad5e2" name="Changes" comment="" />
+      <created>1721032266062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721032266062</updated>
+      <workItem from="1721032266950" duration="3142000" />
+      <workItem from="1721036478050" duration="2656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
