@@ -18,6 +18,13 @@ tasks.test {
     useJUnitPlatform()
 }
 
+tasks.register("author") {
+    val author: String by project
+    doLast {
+        println("Author ${author}")
+    }
+}
+
 kotlin {
     jvmToolchain(8)
 }
